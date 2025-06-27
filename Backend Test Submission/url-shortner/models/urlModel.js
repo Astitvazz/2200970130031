@@ -1,3 +1,3 @@
-const urls = new Map(); // key: shortcode, value: { longUrl, expiry }
 
+const urls = new Map();
 module.exports = urls;
